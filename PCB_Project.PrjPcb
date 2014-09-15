@@ -312,6 +312,10 @@ DocumentUniqueId=
 DocumentPath=Project Outputs for PCB_Project\Design Rule Check - PCB2.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for PCB_Project\Design Rule Check - PCB3.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
